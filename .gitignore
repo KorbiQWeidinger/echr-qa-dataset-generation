@@ -1,0 +1,7 @@
+env/
+echr_case_law_guides_with_openai_embeddings.csv
+echr_case_law_guides.csv
+__pycache__/
+.env
+data/echr_2_0_0.db
+data/cases.csv
